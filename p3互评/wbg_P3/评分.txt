@@ -1,0 +1,4 @@
+say nothing about the key data structure	-2
+there is no discussion on the correctness of the algorithm 	-1
+
+the testing results contain some test cases, however with no specification on their purposes -3

@@ -1,0 +1,1 @@
+	wbg2015_G04_P3.cpp is the source code file.To build the executable file, we open the source code with Dev C++,and click Ctrl+F9 to complile the source code, and we get the .exe file wbg2015_G04_P3.exe. To run the executalbe file, we should click Ctrl+F10.
